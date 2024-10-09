@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 6px;
+}
+
+.card .card-title {
+    font-size: large;
+    font-weight: bold;
+}
+
+.card .car-content {
+    color: #353535
+}
